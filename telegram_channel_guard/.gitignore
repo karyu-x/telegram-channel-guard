@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+guard.sqlite3
+*.sqlite3-journal
